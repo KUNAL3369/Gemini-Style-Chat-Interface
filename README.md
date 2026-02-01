@@ -1,4 +1,4 @@
-# Gemini Clone
+# Gemini-Style Chat Interface
 
 A modern chat application built with React that mimics the Gemini AI interface. This project features a clean, responsive design with real-time chat simulation, user authentication, and intuitive chatroom management.
 
